@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Olá, eu sou o @zilentvoid
 
-<!--
-**zilentvoid/zilentvoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full Stack Developer | Mobile, Desktop & Web Specialist
+Sou um desenvolvedor focado em criar soluções completas, desde a interface visual até a arquitetura de servidores de alta performance. Atualmente, dedico minha experiência ao ecossistema **Galaxhost**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Minhas Especialidades:
+
+*   **📱 Mobile**: Desenvolvimento de aplicativos modernos e fluidos.
+*   **💻 PC/Desktop**: Criação de softwares robustos para sistemas operacionais de mesa.
+*   **🌐 Web Frontend**: Interfaces responsivas e interativas.
+*   **⚙️ Backend**: APIs seguras, escaláveis e automação de infraestrutura.
+
+---
+
+### 🏗️ Projetos em Destaque:
+*   **[Galaxhost](https://github.com/zilentvoid/galaxhost)**: Minha principal iniciativa em infraestrutura e hospedagem.
+
+---
+
+### 📫 Como me encontrar:
+*   **Location**: Brasil 🇧🇷
+*   **Status**: Disponível para novos projetos e colaborações (Hireable).
+
+*"Transformando código em soluções de alto impacto."*
