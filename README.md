@@ -7,7 +7,7 @@ Sou um desenvolvedor focado em criar soluções completas, desde a interface vis
   <table>
     <tr>
       <td align="right" valign="middle" style="padding-right: 15px;">
-        <img src="https://files.catbox.moe/mvz0sx.jpg" width="120" height="120" style="border: 3px solid #8A2BE2;">
+        <img src="https://avatars.githubusercontent.com/u/200398646?v=4&size=64" width="120" height="120" style="border: 10px solid #8A2BE2;">
       </td>
       <td align="left" valign="middle" style="transform: translateY(-3px);">
         <h2 style="margin: 0; font-family: monospace; color: #8A2BE2;">
