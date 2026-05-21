@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o @zilentvoid
+# 👋 Olá, eu sou o zilentvoid
 
 ### 🚀 Full Stack Developer | Mobile, Desktop & Web Specialist
 Sou um desenvolvedor focado em criar soluções completas, desde a interface visual até a arquitetura de servidores de alta performance. Atualmente, dedico minha experiência ao ecossistema **Galaxhost**.
