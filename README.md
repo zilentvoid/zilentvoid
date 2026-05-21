@@ -4,6 +4,10 @@
 Sou um desenvolvedor focado em criar soluções completas, desde a interface visual até a arquitetura de servidores de alta performance. Atualmente, dedico minha experiência ao ecossistema **Galaxhost**.
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+</p>
+
 
 ### 🛠️ Minhas Especialidades:
 
